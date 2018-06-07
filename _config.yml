@@ -11,9 +11,9 @@ title                    : "油气资源及新能源利用中的安全问题"
 title_separator          : "-"
 name                     : &name "孔得朋"
 description              : &description "personal description"
-url                      : https://dpko-pp.github.io/kongdepeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://depengkong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dpko-pp/kongdepeng.github.io"
+repository               : "depengkong/depengkong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
