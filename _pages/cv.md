@@ -9,24 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 本科, 安全工程, 中国石油大学（华东）, 2004-2008 
+* 博士, 安全科学与工程，中国科学技术大学，2008-2013
+* 博士，工学博士，香港城市大学，2009-2013
 
-Work experience
+工作经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2011.8-2012.9 瑞典隆德大学 消防工程系， 访问学者
+* 2013.6-2013.8 香港城市大学土木工程系，研究助理
+* 2013.7-2016.12 中国石油大学（华东），讲师
+* 2016.12-至今，中国石油大学（华东），副教授
 Skills
 ======
 * Skill 1
@@ -41,19 +35,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
