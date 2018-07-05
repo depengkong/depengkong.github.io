@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-encoding: UTF-8
 locale                   : "en-US"
 title                    : "油气资源及新能源利用中的安全问题"
 title_separator          : "-"
