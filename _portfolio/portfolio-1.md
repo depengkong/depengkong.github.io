@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "王克 2015级(已毕业)"
+excerpt: " 1<br/><img src='/images/wangke.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+王克，男，1993年5月生，安徽宿州人，2015年6月毕业于安徽工业大学建筑工程学院安全工程专业，获工学学士学位，2018年6月毕业于中国石油大学（华东）机电工程学院安全科学与工程专业，获工学硕士学位。目前在安徽合肥科大立安公司工作。
