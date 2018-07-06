@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-个人简介
+课题组简介
 ======
-**孔得朋**，男，博士，副教授，硕士生导师。青岛（西海岸）黄岛新区首批紧缺人才，机电工程学院海洋油气装备及安全技术研究中心成员。2013年6月于中国科学技术大学火灾科学国家重点实验室获得工学博士学位，2013年11月于香港城市大学获得哲学博士学位（Phd）。Journal of Hazardous Materials、Journal of Thermal Analysis and Calorimetry、International Journal of Hydrogen Energy 、Physica A、Fire and Materials、Process Safety Progress、《中国安全科学学报》等国内外期刊审稿人。
+本课题组主要从事**油气资源及新能源利用中的安全问题研究**，包括石油石化火灾机理与防治、锂离子电池（组）热失控蔓延机理与防控技术、极地溢油快速处置、海洋平台应急撤离风向管控等研究方向。课题组目前拥有副教授1名，讲师1名，硕士研究生9名。近年来承担国家重点研发、国家自然科学基金、博士后面上资助、山东省重点研发计划、山东省自然科学基金、国家重点实验室开放课题等纵向课题10余项，承担胜利油田、中石油西部管道公司等横向课题多项。在Journal of Power Sources(SCI一区)、Applied Energy(SCI一区)、Applied Thermal Engineering(SCI二区)、Journal of Loss Provention in Process Industries等国内外知名期刊上发表论文30余篇。
 
 
 
