@@ -1,5 +1,5 @@
 ---
-title: "王克 2015级(已毕业)"
+title: "王克 2015级已毕业"
 excerpt: " 1<br/><img src='/images/wangke.png'>"
 collection: portfolio
 ---
