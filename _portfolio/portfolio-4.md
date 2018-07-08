@@ -3,6 +3,7 @@ title: "赵虓仝（18级研究生，在读）"
 collection: portfolio
 ---
 
-![](/images/zhaoxiaotong.png)
 
 赵虓仝，男，1996年1月生，江苏江阴人，2018年毕业于常州大学安全工程专业，获学士学位，现为中国石油大学（华东）安全工程专业2018级研究生。
+
+![](/images/zhaoxiaotong.png)
