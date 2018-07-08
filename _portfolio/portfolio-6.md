@@ -3,6 +3,6 @@ title: "孙晓萌（18级研究生，在读）"
 collection: portfolio
 ---
 
-![](/images/sunxiaomeng.jpg)
+![](/images/sunxiaomeng.png)
 
 孙晓萌，女，1996年1月生，山东滨州人，2018年毕业于青岛科技大学环境与安全工程学院安全工程专业，获学士学位，现为中国石油大学（华东）安全工程专业2018级研究生。
