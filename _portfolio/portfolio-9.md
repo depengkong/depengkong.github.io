@@ -5,4 +5,4 @@ collection: portfolio
 
 彭荣琦，男，1993年12月生，重庆璧山人，2016年毕业于中国石油大学(华东)机电工程学院机械设计制造及自动化专业，获学士学位，现为中国石油大学（华东）安全工程专业2017级研究生。
 
-![](/images/pengrognqi.png)
+![](/images/pengrongqi.png)
