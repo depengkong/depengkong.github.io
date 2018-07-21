@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 17. **Depeng Kong**, Zhen Zhang, Ping Ping, Guoming Chen, Xu He, Hanbing Yang. [Experimental study on burning behavior of crude oil pool fire in annular ice cavities](https://www.sciencedirect.com/science/article/pii/S001623611831247X). Fuel. 2018, 234: 464-472.
-27. Ping Ping, **Depeng Kong**, Jiaqing Zhang, Ruoxi Wen, Jennifer Wen. Characterization of behaviour and hazards of fire and deflagration for high-energy Li-ion cells by over-heating. Journal of Power Sources. 2018, 398: 55-66. (https://www.sciencedirect.com/science/article/pii/S0378775318307523)
+27. Ping Ping, **Depeng Kong**, Jiaqing Zhang, Ruoxi Wen, Jennifer Wen. [Characterization of behaviour and hazards of fire and deflagration for high-energy Li-ion cells by over-heating](https://www.sciencedirect.com/science/article/pii/S0378775318307523). Journal of Power Sources. 2018, 398: 55-66. 
 37. Ping, Ping, Ke Wang, and **Depeng Kong**. "Analysis of emergency evacuation in an offshore platform using evacuation simulation modeling." *Physica A: Statistical Mechanics and its Applications* 505 (2018): 601-612.
 47. Ping, Ping, Ke Wang, **Depeng Kong**, and Guoming Chen. "Estimating probability of success of escape, evacuation, and rescue (EER) on the offshore platform by integrating Bayesian Network and Fuzzy AHP." *Journal of Loss Prevention in the Process Industries* 54 (2018): 57-68.
 57. Yang, Ruochen, Faisal Khan, Ming Yang, **Depeng Kong**, and Changhang Xu. "A numerical fire simulation approach for effectiveness analysis of fire safety measures in floating liquefied natural gas facilities." *Ocean Engineering* 157 (2018): 219-233.
