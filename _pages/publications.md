@@ -34,8 +34,8 @@ author_profile: true
 23. Kong, De-peng, Shou-xiang Lu, Quan-sheng Kang, Siu-ming Lo, and Qi-miao Xie. 2011. **[Fuzzy Risk Assessment for Life Safety Under Building Fires](https://link.springer.com/article/10.1007/s10694-011-0223-z)**. *Fire Technology* no. 50 (4):977-991. doi: 10.1007/s10694-011-0223-z.
 24. Depeng, Kong, Lu Shouxiang, Feng Lei, and Xie Qimiao. 2011. **[Uncertainty and sensitivity analyses of heat fire detector model based on Monte Carlo simulation](http://journals.sagepub.com/doi/abs/10.1177/0734904110396314)**. *Journal of Fire Sciences* no. 29 (4):317-337. doi: 10.1177/0734904110396314.
 25. De-peng, Kong, L. U. Shou-xiang, and L. O. Sm. 2011. **[Global Sensitivity Analysis of Occupant Egress Safety Model](https://www.sciencedirect.com/science/article/pii/S1877705811008320)**. *Procedia Engineering no*. 11:179-184. doi: 10.1016/j.proeng.2011.04.644.
-26. 孔得朋, 陆守香, 冯磊, 卢兆明. 2011. 基于 LHS 方法的可用安全疏散时间不确定性及参数敏感性分析. 安全与环境学报 no. 11 (1):176-179.
-27. 孔得朋, 陆守香, 冯磊, 卢兆明. 2010. 热释放速率的不确定性对可用安全疏散时间的影响. 中国科学技术大学学报 no. 40 (7):764-770.
-28. 康泉胜, 陈兵, 陆守香, 周劫波, 孔得朋. 2010. 小尺度薄油池火沸腾燃烧特性研究. 工程热物理学报 no. 31 (4):693-696.
-29. 冯磊, 谭常春, 陆守香, 孔得朋. 2009. 商业类建筑人员密度统计分析与建模. 火灾科学 no. 18 (3):130-137.
+26. 孔得朋, 陆守香, 冯磊, 卢兆明. 2011. **[基于 LHS 方法的可用安全疏散时间不确定性及参数敏感性分析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=AQHJ201101041&v=MjU4NDBGckNVUkxLZmIrWm5GeTNnV3J2SUpEekRaTEc0SDlETXJvOUJaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTE=)**. 安全与环境学报 no. 11 (1):176-179.
+27. 孔得朋, 陆守香, 冯磊, 卢兆明. 2010. **[热释放速率的不确定性对可用安全疏散时间的影响](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=ZKJD201007019&v=MDA3Mjc0SDlITXFJOUViWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrWm5GeTNnVzd6TFB5YkJhckc=)**. 中国科学技术大学学报 no. 40 (7):764-770.
+28. 康泉胜, 陈兵, 陆守香, 周劫波, 孔得朋. 2010. **[小尺度薄油池火沸腾燃烧特性研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=GCRB201004042&v=MDgzNThSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK1puRnkzZ1c3dk9JaTdaYkxHNEg5SE1xNDlCWm8=)**. 工程热物理学报 no. 31 (4):693-696.
+29. 冯磊, 谭常春, 陆守香, 孔得朋. 2009. **[商业类建筑人员密度统计分析与建模](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2009&filename=HZKX200903002&v=MjQzODR1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK1puRnkzaFVyek1MVGZBZHJHNEh0ak1ySTlGWm9SOGVYMUw=)**. 火灾科学 no. 18 (3):130-137.
 
