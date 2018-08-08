@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-16. Depeng Kong, Zhen Zhang, Ping Ping, Guoming Chen, Xu He, Hanbing Yang.**[Experimental study on burning behavior of crude oil pool fire in annular ice cavities](https://www.sciencedirect.com/science/article/pii/S001623611831247X)**. Fuel. 2018, 234: 464-472.
+1. Depeng Kong, Zhen Zhang, Ping Ping, Guoming Chen, Xu He, Hanbing Yang.**[Experimental study on burning behavior of crude oil pool fire in annular ice cavities](https://www.sciencedirect.com/science/article/pii/S001623611831247X)**. Fuel. 2018, 234: 464-472.
 18. Ping Ping, Depeng Kong Jiaqing Zhang, Ruoxi Wen, Jennifer Wen. **[Characterization of behaviour and hazards of fire and deflagration for high-energy Li-ion cells by over-heating](https://www.sciencedirect.com/science/article/pii/S0378775318307523)**. Journal of Power Sources. 2018, 398: 55-66. 
 19. Ping, Ping, Ke Wang, and Depeng Kong.**[Analysis of emergency evacuation in an offshore platform using evacuation simulation modeling](https://www.sciencedirect.com/science/article/pii/S0378437118304011)**.*Physica A: Statistical Mechanics and its Applications* 505 (2018): 601-612.
 20. Ping, Ping, Ke Wang, Depeng Kong, and Guoming Chen. **[Estimating probability of success of escape, evacuation, and rescue (EER) on the offshore platform by integrating Bayesian Network and Fuzzy AHP](https://www.sciencedirect.com/science/article/pii/S0950423017307003)**. *Journal of Loss Prevention in the Process Industries* 54 (2018): 57-68.
