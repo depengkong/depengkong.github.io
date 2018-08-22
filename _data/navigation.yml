@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "项目"
-    url: /projects/        
+    url: /projects/  
+    
+  - title: ""
+    url: /teaching/
     
   - title: "成员"
     url:/ /portfolio/
@@ -15,3 +18,6 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: ""
+    url: //
+  
