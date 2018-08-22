@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "项目"
-    url: /projects/    
-
-//- title: "研究领域"
-    url: /teaching/    
+    url: /projects/        
     
   - title: "成员"
     url:/ /portfolio/
@@ -15,8 +12,5 @@ main:
   - title: "精彩瞬间"
     url: /year-archive/
     
- // - title: "CV"
+  - title: "CV"
     url: /cv/
-    
- // - title: "联系方式"
-    url: /markdown/
