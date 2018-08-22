@@ -15,8 +15,8 @@ main:
   - title: "精彩瞬间"
     url: /year-archive/
     
-  - title: "CV"
+ // - title: "CV"
     url: /cv/
     
-  - title: "联系方式"
+ // - title: "联系方式"
     url: /markdown/
