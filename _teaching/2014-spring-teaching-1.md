@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "课题组研究领域"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,10 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+本课题组主要从事油气资源及新能源利用中的安全问题研究，包括:
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+石油石化火灾机理与防治
+锂离子电池（组）热失控蔓延机理与防控技术
+锂离子电池（组）失效诊断与寿命预测
+极地溢油快速处置技术
+海洋平台应急撤离风险管控
