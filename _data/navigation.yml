@@ -1,10 +1,10 @@
-# main links links
+s# main links links
 main:
   - title: "论文"
     url: /publications/
 
   - title: "项目"
-    url: /talks/  
+    url: /projects/  
     
   - title: "研究领域"
     url: /teaching/ 
