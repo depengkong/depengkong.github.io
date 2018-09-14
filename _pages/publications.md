@@ -38,4 +38,4 @@ author_profile: true
 27. 孔得朋, 陆守香, 冯磊, 卢兆明. 2010. **[热释放速率的不确定性对可用安全疏散时间的影响](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=ZKJD201007019&v=MDA3Mjc0SDlITXFJOUViWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZmIrWm5GeTNnVzd6TFB5YkJhckc=)** . 中国科学技术大学学报 no. 40 (7):764-770.
 28. 康泉胜, 陈兵, 陆守香, 周劫波, 孔得朋. 2010. **[小尺度薄油池火沸腾燃烧特性研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=GCRB201004042&v=MDgzNThSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK1puRnkzZ1c3dk9JaTdaYkxHNEg5SE1xNDlCWm8=)** . 工程热物理学报 no. 31 (4):693-696.
 29. 冯磊, 谭常春, 陆守香, 孔得朋. 2009. **[商业类建筑人员密度统计分析与建模](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2009&filename=HZKX200903002&v=MjQzODR1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZiK1puRnkzaFVyek1MVGZBZHJHNEh0ak1ySTlGWm9SOGVYMUw=)** . 火灾科学 no. 18 (3):130-137.
-
+30 welcom
