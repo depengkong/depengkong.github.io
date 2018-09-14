@@ -6,9 +6,8 @@ main:
   - title: "项目"
     url: /projects/  
     
-   - title: "研究领域"
+  - title: "研究领域"
     url: /teaching/ 
-
     
   - title: "成员"
     url:/ /portfolio/
