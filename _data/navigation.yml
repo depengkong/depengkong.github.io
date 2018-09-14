@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "项目"
-    url: /projects/  
+    url: /talks/  
     
   - title: "研究领域"
     url: /teaching/ 
