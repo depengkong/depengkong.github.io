@@ -33,7 +33,7 @@ redirect_from:
 
 近期动态
 ======
-1. **[课题组在SCI一区Energy Conversion and Management发表文章]()**   2018-09-08
+1. **[课题组在SCI一区Energy Conversion and Management发表文章](https://depengkong.github.io//posts/2018/09/blog-post-9/)**   2018-09-08
 2. **[课题组获批2018年国家自然科学基金面上项目](https://depengkong.github.io//posts/2018/08/blog-post-8/)** 2018-8-17
 3. **[课题组在SCI一区top期刊Journal of Power Sources发表文章](https://depengkong.github.io//posts/2018/07/blog-post-7/)** 2018-7-19
 4. **[课题组张震同学论文被SCI二区top期刊Fuel接收](https://depengkong.github.io//posts/2018/07/blog-post-6/)**  2018-7-16
