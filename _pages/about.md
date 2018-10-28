@@ -33,7 +33,8 @@ redirect_from:
 
 近期动态
 ======
-1. **[课题组孔得朋老师赴加拿大纽芬兰纪念大学进行交流](https://depengkong.github.io//posts/2018/09/blog-post-10/)** 2018-09-16
+1. **[课题组获得第十一届亚澳火灾大会最佳poster奖](https://depengkong.github.io//posts/2018/10/blog-post-11/)** 2018-10-28
+2. **[课题组孔得朋老师赴加拿大纽芬兰纪念大学进行交流](https://depengkong.github.io//posts/2018/09/blog-post-10/)** 2018-09-16
 2. **[课题组彭荣琦同学在SCI一区top期刊Energy Conversion and Management发表文章](https://depengkong.github.io//posts/2018/09/blog-post-9/)**   2018-09-08
 3. **[课题组获批2018年国家自然科学基金面上项目](https://depengkong.github.io//posts/2018/08/blog-post-8/)** 2018-8-17
 4. **[课题组在SCI一区top期刊Journal of Power Sources发表文章](https://depengkong.github.io//posts/2018/07/blog-post-7/)** 2018-7-19
