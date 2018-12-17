@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. Depeng Kong, Ruoxi Wen, Ping Ping, Rongqi Peng, Jiaqing Zhang, Guoming Chen. **[Study on degradation behavior of commercial 18650 LiAlNiCoO2 cells in over‐charge conditions](https://onlinelibrary.wiley.com/doi/abs/10.1002/er.4302)**. International Journal of Energy Research. 2018. DOI: 10.1002/er.4302
+1. Depeng Kong, Ruoxi Wen, Ping Ping, Rongqi Peng, Jiaqing Zhang, Guoming Chen. **[Study on degradation behavior of commercial 18650 LiAlNiCoO2 cells in over‐charge conditions](https://onlinelibrary.wiley.com/doi/abs/10.1002/er.4302)**. International Journal of Energy Research. 2019. 43(1): 552-567.
 2. Ping Ping, Rongqi Peng, Depeng Kong, Guoming Chen, Jennifer Wen. **[Investigation on thermal management performance of PCM-fin structure for Li-ion battery module in high-temperature environment](https://www.sciencedirect.com/science/article/pii/S0196890418310203)**. Energy Conversion and Management. 2018. 176:131-146.
 3. Depeng Kong, Zhen Zhang, Ping Ping, Guoming Chen, Xu He, Hanbing Yang. **[Experimental study on burning behavior of crude oil pool fire in annular ice cavities](https://www.sciencedirect.com/science/article/pii/S001623611831247X)**. Fuel. 2018, 234: 464-472.
 4. Ping Ping, Depeng Kong Jiaqing Zhang, Ruoxi Wen, Jennifer Wen. **[Characterization of behaviour and hazards of fire and deflagration for high-energy Li-ion cells by over-heating](https://www.sciencedirect.com/science/article/pii/S0378775318307523)**. Journal of Power Sources. 2018, 398: 55-66. 
