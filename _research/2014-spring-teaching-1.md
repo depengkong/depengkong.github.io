@@ -3,9 +3,6 @@ title: "课题组研究领域"
 collection: 研究领域
 type: "Undergraduate course"
 permalink: /research/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 本课题组主要从事油气资源及新能源利用中的安全问题研究
