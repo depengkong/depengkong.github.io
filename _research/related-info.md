@@ -5,17 +5,17 @@ type: "Undergraduate course"
 permalink: /research/related-info
 ---
 
- ## **导师信息：**
+ ## 导师信息：
 
-  - 孔得朋，Depeng Kong，kongdepeng{AT}upc{DOT}edu{DOT}cn
-  - 平平，Ping Ping，pingping{AT}upc{DOT}edu{DOT}cn
+- 孔得朋，Depeng Kong，kongdepeng{AT}upc{DOT}edu{DOT}cn
+- 平平，Ping Ping，pingping{AT}upc{DOT}edu{DOT}cn
 
- ## **论文署名单位：**
+ ## 论文署名单位：
 
   1.  中国石油大学（华东）海洋油气装备与安全技术研究中心，山东 青岛 266580 （孔得朋）
-  - Center for Offshore Engineering and Safety Technology, China University of Petroleum (East China), Qingdao, 266580, P. R. China
+- Center for Offshore Engineering and Safety Technology, China University of Petroleum (East China), Qingdao, 266580, P. R. China
   1.  中国石油大学（华东） 化学工程学院，山东 青岛 266580 （平平）
-  - College of Chemical Engineering, China University of Petroleum (East China), Qingdao, 266580, P. R. China
+- College of Chemical Engineering, China University of Petroleum (East China), Qingdao, 266580, P. R. China
 
 ## 论文项目标注：(具体位置格式参考不同期刊会议)
 
