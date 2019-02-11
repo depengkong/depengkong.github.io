@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /research/useful-links
 ---
 
- ##学术类
+##学术类
 
 - **中国科学院文献情报中心期刊分区表 http://www.fenqubiao.com/** SCI期刊分区查询，用户名：upc_office 密码：upchdkjc1831    **有IP限制，需在校内IP使用。在校外需登录VPN** 
 - **科学网 http://sciencenet.cn/**
