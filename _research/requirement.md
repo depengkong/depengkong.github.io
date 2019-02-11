@@ -1,5 +1,5 @@
 ---
-title: "常用链接"
+title: "欢迎志同道合的优秀同学加入课题组"
 collection: 研究领域
 type: "Undergraduate course"
 permalink: /research/requirements
