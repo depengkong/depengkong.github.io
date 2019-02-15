@@ -23,11 +23,7 @@ redirect_from:
 
 <u>电子邮箱：kongdepeng@upc.edu.cn</u>
 
-
-
-
-
-
+### **[欢迎志同道合的优秀同学加入课题组!](https://depengkong.github.io//research/requirements)** 
 
 
 
