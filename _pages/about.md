@@ -22,12 +22,8 @@ redirect_from:
 <u>联系人：孔得朋 副教授，硕士生导师</u>
 
 <u>电子邮箱：kongdepeng@upc.edu.cn</u>
-<u>qq：407004660</u>
 
-
-
-
-
+## **[欢迎志同道合的优秀同学加入课题组!](https://depengkong.github.io//research/requirements)** 
 
 
 
