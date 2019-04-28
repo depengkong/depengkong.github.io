@@ -29,17 +29,20 @@ redirect_from:
 
 近期动态
 ======
-1. **[课题组文若曦同学在SCI二区期刊International Journal of Energy Research发表文章](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-17
-2. **[课题组张震同学获得国家奖学金](https://depengkong.github.io//posts/2018/11/blog-post-12/)** 2018-11-04
-3. **[课题组获得第十一届亚澳火灾大会最佳poster奖](https://depengkong.github.io//posts/2018/10/blog-post-11/)** 2018-10-28
-4. **[课题组孔得朋老师赴加拿大纽芬兰纪念大学进行交流](https://depengkong.github.io//posts/2018/09/blog-post-10/)** 2018-09-16
-5. **[课题组彭荣琦同学在SCI一区top期刊Energy Conversion and Management发表文章](https://depengkong.github.io//posts/2018/09/blog-post-9/)**   2018-09-08
-6. **[课题组获批2018年国家自然科学基金面上项目](https://depengkong.github.io//posts/2018/08/blog-post-8/)** 2018-8-17
-7. **[课题组在SCI一区top期刊Journal of Power Sources发表文章](https://depengkong.github.io//posts/2018/07/blog-post-7/)** 2018-7-19
-8. **[课题组张震同学论文被SCI二区top期刊Fuel接收](https://depengkong.github.io//posts/2018/07/blog-post-6/)**  2018-7-16
-9. **[孔得朋老师获评Elsevier期刊杰出审稿人](https://depengkong.github.io//posts/2018/07/blog-post-5/)**  2018-07-06
-10. **[课题组第二位硕士王克同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2018/07/blog-post-4/)**  2018-07-01
-11. **[课题组第一位硕士刘鹏翔同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2017/07/blog-post-1//)**  2017-07-01
+
+   **[课题组组织春游活动](https://depengkong.github.io//posts/2019/04/blog-post-16/)
+   **[课题组何旭同学在SCI三区期刊Journal of Loss Prevention in the Process Industries发表文章](https://depengkong.github.io//posts/2019/04/blog-post-14/)
+   **[课题组文若曦同学在SCI二区期刊International Journal of Energy Research发表文章](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-17
+   **[课题组张震同学获得国家奖学金](https://depengkong.github.io//posts/2018/11/blog-post-12/)** 2018-11-04
+   **[课题组获得第十一届亚澳火灾大会最佳poster奖](https://depengkong.github.io//posts/2018/10/blog-post-11/)** 2018-10-28
+   **[课题组孔得朋老师赴加拿大纽芬兰纪念大学进行交流](https://depengkong.github.io//posts/2018/09/blog-post-10/)** 2018-09-16
+   **[课题组彭荣琦同学在SCI一区top期刊Energy Conversion and Management发表文章](https://depengkong.github.io//posts/2018/09/blog-post-9/)**   2018-09-08
+   **[课题组获批2018年国家自然科学基金面上项目](https://depengkong.github.io//posts/2018/08/blog-post-8/)** 2018-8-17
+   **[课题组在SCI一区top期刊Journal of Power Sources发表文章](https://depengkong.github.io//posts/2018/07/blog-post-7/)** 2018-7-19
+   **[课题组张震同学论文被SCI二区top期刊Fuel接收](https://depengkong.github.io//posts/2018/07/blog-post-6/)**  2018-7-16
+   **[孔得朋老师获评Elsevier期刊杰出审稿人](https://depengkong.github.io//posts/2018/07/blog-post-5/)**  2018-07-06
+   **[课题组第二位硕士王克同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2018/07/blog-post-4/)**  2018-07-01
+   **[课题组第一位硕士刘鹏翔同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2017/07/blog-post-1//)**  2017-07-01
 
 
 
