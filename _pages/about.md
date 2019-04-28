@@ -30,9 +30,9 @@ redirect_from:
 近期动态
 ======
 
-   13.**[课题组组织春游活动](https://depengkong.github.io//posts/2019/04/blog-post-16/)**2019-04-27
+   13.**[课题组组织春游活动](https://depengkong.github.io//posts/2019/04/blog-post-16/)** 2019-04-27
    
-   12.**[课题组何旭同学在SCI三区期刊Journal of Loss Prevention in the Process Industries发表文章](https://depengkong.github.io//posts/2019/04/blog-post-14/)**2019-04-07
+   12.**[课题组何旭同学在SCI三区期刊Journal of Loss Prevention in the Process Industries发表文章](https://depengkong.github.io//posts/2019/04/blog-post-14/)** 2019-04-07
    
    11.**[课题组文若曦同学在SCI二区期刊International Journal of Energy Research发表文章](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-17
    
