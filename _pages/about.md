@@ -53,6 +53,7 @@ redirect_from:
    3.**[孔得朋老师获评Elsevier期刊杰出审稿人](https://depengkong.github.io//posts/2018/07/blog-post-5/)**  2018-07-06
    
    2.**[课题组第二位硕士王克同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2018/07/blog-post-4/)**  2018-07-01   
+   
    1.**[课题组第一位硕士刘鹏翔同学获得硕士学位顺利毕业](https://depengkong.github.io//posts/2017/07/blog-post-1//)**  2017-07-01
    
 
