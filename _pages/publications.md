@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 32. Kong D, He X, Khan F, Chen G, Ping P, Yang H, Peng R. **[Small scale experiment study on burning characteristics for in-situ burning of crude oil on open water](https://www.sciencedirect.com/science/article/pii/S0950423018307903)**. Journal of Loss Prevention in the Process Industries. 2019. 40:46-52
 31. Depeng Kong, Ruoxi Wen, Ping Ping, Rongqi Peng, Jiaqing Zhang, Guoming Chen. **[Study on degradation behavior of commercial 18650 LiAlNiCoO2 cells in over‐charge conditions](https://onlinelibrary.wiley.com/doi/abs/10.1002/er.4302)**. International Journal of Energy Research. 2019. 43(1): 552-567.
