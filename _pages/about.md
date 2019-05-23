@@ -32,7 +32,7 @@ redirect_from:
 
    14.**[课题组组织春游活动](https://depengkong.github.io//posts/2019/04/blog-post-16/)** 2019-04-27  
    13.**[课题组何旭同学在SCI三区期刊Journal of Loss Prevention in the Process Industries发表文章](https://depengkong.github.io//posts/2019/04/blog-post-15/)** 2019-04-07  
-   12.**[课题组张震同学获得山东省优秀毕业生称号](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-07
+   12.**[课题组张震同学获得山东省优秀毕业生称号](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-07   
    11.**[课题组文若曦同学在SCI二区期刊International Journal of Energy Research发表文章](https://depengkong.github.io//posts/2018/12/blog-post-14/)** 2018-12-17  
    10.**[课题组张震同学获得国家奖学金](https://depengkong.github.io//posts/2018/11/blog-post-12/)** 2018-11-04  
    9.**[课题组获得第十一届亚澳火灾大会最佳poster奖](https://depengkong.github.io//posts/2018/10/blog-post-11/)** 2018-10-28  
