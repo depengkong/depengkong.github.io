@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-33. D Kong, R Peng, X Sun, J Zhang, P Ping, J Du. **[Study of the influence of crude oil on the spontaneous combustion risk of sulfurized rust in crude oil tanks](https://www.sciencedirect.com/science/article/pii/S0016236119311688). **Fuel. 2019. 255: 115816. 
+33. D Kong, R Peng, X Sun, J Zhang, P Ping, J Du. **[Study of the influence of crude oil on the spontaneous combustion risk of sulfurized rust in crude oil tanks](https://www.sciencedirect.com/science/article/pii/S0016236119311688).** Fuel. 2019. 255: 115816. 
 
 32. Kong D, He X, Khan F, Chen G, Ping P, Yang H, Peng R. **[Small scale experiment study on burning characteristics for in-situ burning of crude oil on open water](https://www.sciencedirect.com/science/article/pii/S0950423018307903)**. Journal of Loss Prevention in the Process Industries. 2019. 40:46-52  
 
