@@ -30,6 +30,8 @@ redirect_from:
 近期动态
 ======
 
+   16.**[孔得朋老师带领本科生参观实验室](https://depengkong.github.io//posts/2019/05/blog-post-18/)** 2019-05-21  
+   15.**[张震、文若曦顺利通过硕士答辩](https://depengkong.github.io//posts/2019/05/blog-post-17/)** 2019-05-18   
    14.**[课题组组织春游活动](https://depengkong.github.io//posts/2019/04/blog-post-16/)** 2019-04-27  
    13.**[课题组何旭同学在SCI三区期刊Journal of Loss Prevention in the Process Industries发表文章](https://depengkong.github.io//posts/2019/04/blog-post-15/)** 2019-04-07  
    12.**[课题组张震同学获得山东省优秀毕业生称号](https://depengkong.github.io//posts/2018/12/blog-post-13/)** 2018-12-07   
