@@ -1,5 +1,5 @@
 ---
-title: "张震（16级研究生，在读）"
+title: "张震（16级研究生，已毕业）"
 collection: portfolio
 ---
 
